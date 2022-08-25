@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Florence Kotohoyoh",
+	"description": "A project to learn npm package.json",
+	"keywords": ["freecodecamp", "npm", "package.json"],
+	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
